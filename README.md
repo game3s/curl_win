@@ -12,6 +12,10 @@
   
   - Output: at "curl-7.51.0\build\Win32\VC14\LIB Release - LIB OpenSSL"
 
+### Notes
+
+  - #define CURL_STATICLIB when using static lib
+
 ### References
 
   - https://curl.haxx.se/
