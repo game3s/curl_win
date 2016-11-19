@@ -2,6 +2,8 @@
  
 ### Build
  
+  - sln: curl-7.51.0\projects\Windows\VC14
+ 
   - modify the proj config of libcurl: openssl include path (C/C++>General>Additional Include Directories)
 
   - choose LIB Release - LIB OpenSSL
